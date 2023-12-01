@@ -1,8 +1,4 @@
-﻿using System.Linq;
-using System.Text.RegularExpressions;
-using static System.Net.Mime.MediaTypeNames;
-
-namespace AdventOfCode2023.Day01
+﻿namespace AdventOfCode2023.Day01
 {
     public static class Day01Extension
     {
